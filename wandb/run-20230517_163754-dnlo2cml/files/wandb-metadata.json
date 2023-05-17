@@ -1,0 +1,54 @@
+{
+    "os": "Windows-10-10.0.19042-SP0",
+    "python": "3.10.0",
+    "heartbeatAt": "2023-05-17T07:37:55.777077",
+    "startedAt": "2023-05-17T07:37:54.394721",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "C:\\Users\\JHCHUN\\Desktop\\Pytorch-UNet\\train.py",
+    "codePath": "train.py",
+    "git": {
+        "remote": "https://github.com/milesial/Pytorch-UNet.git",
+        "commit": "2f62e6b1c8e98022a6418d31a76f6abd800e5ae7"
+    },
+    "email": null,
+    "root": "C:/Users/JHCHUN/Desktop/Pytorch-UNet",
+    "host": "daekhon",
+    "username": "JHCHUN",
+    "executable": "C:\\Program Files\\Python310\\python.exe",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2000.0,
+        "min": 0.0,
+        "max": 3601.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2000.0,
+            "min": 0.0,
+            "max": 3601.0
+        }
+    ],
+    "disk": {
+        "total": 232.3941307067871,
+        "used": 104.25767517089844
+    },
+    "gpu": "NVIDIA GeForce GTX 1080 Ti",
+    "gpu_count": 2,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce GTX 1080 Ti",
+            "memory_total": 11811160064
+        },
+        {
+            "name": "NVIDIA GeForce GTX 1080 Ti",
+            "memory_total": 11811160064
+        }
+    ],
+    "memory": {
+        "total": 31.95407485961914
+    }
+}

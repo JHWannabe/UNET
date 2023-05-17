@@ -1,0 +1,1231 @@
+INFO: Starting training:
+        Epochs:          5
+        Batch size:      1
+        Learning rate:   1e-05
+        Training size:   149
+        Validation size: 16
+        Checkpoints:     True
+        Device:          cuda
+        Images scaling:  0.25
+        Mixed Precision: True
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch 1/5:  19%|█████████▌                                       | 29/149 [00:44<01:39,  1.20img/s, loss (batch)=0.439]
+
+Validation round:  31%|███████████████████▍                                          | 5/16 [00:16<00:16,  1.48s/batch]
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+
+Validation round: 100%|█████████████████████████████████████████████████████████████| 16/16 [00:17<00:00,  6.63batch/s]
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch 1/5:  39%|██████████████████▋                             | 58/149 [01:30<01:15,  1.20img/s, loss (batch)=0.0869]
+
+Validation round:  25%|███████████████▌                                              | 4/16 [00:16<00:28,  2.34s/batch]
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+
+Validation round: 100%|█████████████████████████████████████████████████████████████| 16/16 [00:18<00:00,  6.54batch/s]
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch 1/5:  58%|███████████████████████████▍                   | 87/149 [02:15<00:51,  1.20img/s, loss (batch)=0.00948]
+
+Validation round:  38%|███████████████████████▎                                      | 6/16 [00:17<00:10,  1.08s/batch]
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+
+Validation round: 100%|█████████████████████████████████████████████████████████████| 16/16 [00:18<00:00,  6.38batch/s]
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch 1/5:  78%|████████████████████████████████████▌          | 116/149 [03:02<00:27,  1.20img/s, loss (batch)=0.0101]
+Validation round:   0%|                                                                      | 0/16 [00:00<?, ?batch/s]
+torch.Size([1, 3, 512, 781])
+
+Validation round:  50%|███████████████████████████████                               | 8/16 [00:17<00:04,  1.77batch/s]
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+
+Validation round: 100%|█████████████████████████████████████████████████████████████| 16/16 [00:18<00:00,  6.51batch/s]
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch 1/5:  97%|██████████████████████████████████████████████▋ | 145/149 [03:49<00:03,  1.19img/s, loss (batch)=0.012]
+Validation round:   0%|                                                                      | 0/16 [00:00<?, ?batch/s]
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+
+Validation round:  12%|███████▊                                                      | 2/16 [00:16<01:37,  6.95s/batch]
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+
+Validation round:  75%|█████████████████████████████████████████████▊               | 12/16 [00:18<00:00,  4.25batch/s]
+torch.Size([1, 3, 512, 781])
+
+
+
+Epoch 1/5: 100%|██████████████████████████████████████████████| 149/149 [04:15<00:00,  1.72s/img, loss (batch)=0.00916]
+INFO: Checkpoint 1 saved!
+
+
+
+
+
+
+
+
+
+
+
+Epoch 2/5:  17%|████████                                        | 25/149 [00:36<01:43,  1.19img/s, loss (batch)=0.0546]
+Validation round:   0%|                                                                      | 0/16 [00:00<?, ?batch/s]
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+
+Validation round:  12%|███████▊                                                      | 2/16 [00:16<01:38,  7.03s/batch]
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+
+Validation round: 100%|█████████████████████████████████████████████████████████████| 16/16 [00:18<00:00,  6.45batch/s]
+torch.Size([1, 3, 512, 781])
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch 2/5:  36%|█████████████████▍                              | 54/149 [01:23<01:19,  1.20img/s, loss (batch)=0.0399]
+Validation round:   0%|                                                                      | 0/16 [00:00<?, ?batch/s]
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+
+Validation round:  38%|███████████████████████▎                                      | 6/16 [00:16<00:10,  1.04s/batch]
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch 2/5:  56%|██████████████████████████▏                    | 83/149 [02:08<00:55,  1.19img/s, loss (batch)=0.00313]
+Validation round:   0%|                                                                      | 0/16 [00:00<?, ?batch/s]
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+
+Validation round:  62%|██████████████████████████████████████▏                      | 10/16 [00:17<00:02,  2.94batch/s]
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch 2/5:  75%|███████████████████████████████████▎           | 112/149 [02:54<00:31,  1.19img/s, loss (batch)=0.0113]
+Validation round:   0%|                                                                      | 0/16 [00:00<?, ?batch/s]
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+
+Validation round:   6%|███▉                                                          | 1/16 [00:17<04:20, 17.39s/batch]
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch 2/5:  95%|███████████████████████████████████████████▌  | 141/149 [03:41<00:06,  1.19img/s, loss (batch)=0.00787]
+Validation round:   0%|                                                                                                             | 0/16 [00:00<?, ?batch/s]
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+
+Validation round:  69%|████████████████████████████████████████████████████████████████████▊                               | 11/16 [00:18<00:01,  3.65batch/s]
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+
+
+
+
+
+Epoch 2/5: 100%|██████████████████████████████████████████████| 149/149 [04:12<00:00,  1.69s/img, loss (batch)=0.00519]
+INFO: Checkpoint 2 saved!
+
+
+
+
+
+
+
+
+
+
+Epoch 3/5:  14%|████████▉                                                      | 21/149 [00:36<01:47,  1.19img/s, loss (batch)=0.00891]
+Validation round:   0%|                                                                                      | 0/16 [00:00<?, ?batch/s]
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+
+Validation round:  62%|████████████████████████████████████████████████▏                            | 10/16 [00:17<00:02,  2.98batch/s]
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch 3/5:  34%|█████████████████████▏                                         | 50/149 [01:22<01:22,  1.19img/s, loss (batch)=0.00537]
+Validation round:   0%|                                                                                      | 0/16 [00:00<?, ?batch/s]
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+
+Validation round:  50%|███████████████████████████████████████                                       | 8/16 [00:17<00:04,  1.78batch/s]
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch 3/5:  53%|█████████████████████████████████▍                             | 79/149 [02:10<01:02,  1.13img/s, loss (batch)=0.00432]
+Validation round:   0%|                                                                                      | 0/16 [00:00<?, ?batch/s]
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+
+Validation round:  25%|███████████████████▌                                                          | 4/16 [00:18<00:30,  2.56s/batch]
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch 3/5:  72%|█████████████████████████████████████████████▋                 | 108/149 [02:58<00:36,  1.12img/s, loss (batch)=0.0531]
+Validation round:   0%|                                                                                      | 0/16 [00:00<?, ?batch/s]
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+
+Validation round:  19%|██████████████▋                                                               | 3/16 [00:18<00:53,  4.15s/batch]
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch 3/5:  92%|█████████████████████████████████████████████████████████     | 137/149 [03:45<00:10,  1.18img/s, loss (batch)=0.00394]
+Validation round:   0%|                                                                                      | 0/16 [00:00<?, ?batch/s]
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+
+Validation round:  75%|█████████████████████████████████████████████████████████▊                   | 12/16 [00:18<00:00,  4.24batch/s]
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+
+
+
+
+
+
+
+Epoch 3/5: 100%|██████████████████████████████████████████████████████████████| 149/149 [04:20<00:00,  1.75s/img, loss (batch)=0.00482]
+INFO: Checkpoint 3 saved!
+
+
+
+
+
+
+
+Epoch 4/5:  11%|███████▏                                                       | 17/149 [00:30<01:53,  1.17img/s, loss (batch)=0.00176]
+Validation round:   0%|                                                                                      | 0/16 [00:00<?, ?batch/s]
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+
+Validation round:  62%|████████████████████████████████████████████████▏                            | 10/16 [00:19<00:02,  2.75batch/s]
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch 4/5:  31%|███████████████████▍                                           | 46/149 [01:19<01:28,  1.16img/s, loss (batch)=0.00353]
+Validation round:   0%|                                                                                      | 0/16 [00:00<?, ?batch/s]
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+
+Validation round:  19%|██████████████▋                                                               | 3/16 [00:19<00:57,  4.45s/batch]
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+
+Validation round: 100%|█████████████████████████████████████████████████████████████████████████████| 16/16 [00:21<00:00,  6.20batch/s]
+torch.Size([1, 3, 512, 781])
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch 4/5:  50%|████████████████████████████████▋                                | 75/149 [02:08<01:05,  1.13img/s, loss (batch)=0.149]
+Validation round:   0%|                                                                                      | 0/16 [00:00<?, ?batch/s]
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+
+Validation round:  56%|███████████████████████████████████████████▉                                  | 9/16 [00:20<00:03,  2.11batch/s]
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch 4/5:  70%|███████████████████████████████████████████▉                   | 104/149 [02:57<00:37,  1.19img/s, loss (batch)=0.0718]
+Validation round:   0%|                                                                                      | 0/16 [00:00<?, ?batch/s]
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+
+Validation round:  44%|██████████████████████████████████▏                                           | 7/16 [00:17<00:06,  1.33batch/s]
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch 4/5:  89%|███████████████████████████████████████████████████████▎      | 133/149 [03:43<00:13,  1.19img/s, loss (batch)=0.00382]
+Validation round:   0%|                                                                                      | 0/16 [00:00<?, ?batch/s]
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+
+
+
+
+
+
+
+
+
+Epoch 4/5: 100%|███████████████████████████████████████████████████████████████| 149/149 [04:21<00:00,  1.75s/img, loss (batch)=0.0113]
+INFO: Checkpoint 4 saved!
+
+
+
+
+
+
+Epoch 5/5:   9%|█████▌                                                          | 13/149 [00:28<02:04,  1.09img/s, loss (batch)=0.0504]
+Validation round:   0%|                                                                                      | 0/16 [00:00<?, ?batch/s]
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+
+Validation round:  31%|████████████████████████▍                                                     | 5/16 [00:17<00:17,  1.56s/batch]
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch 5/5:  28%|██████████████████                                              | 42/149 [01:14<01:29,  1.20img/s, loss (batch)=0.0118]
+Validation round:   0%|                                                                                      | 0/16 [00:00<?, ?batch/s]
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+
+Validation round:  69%|████████████████████████████████████████████████████▉                        | 11/16 [00:17<00:01,  3.75batch/s]
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch 5/5:  48%|██████████████████████████████                                 | 71/149 [01:59<01:05,  1.19img/s, loss (batch)=0.00964]
+Validation round:   0%|                                                                                      | 0/16 [00:00<?, ?batch/s]
+torch.Size([1, 3, 512, 781])
+
+Validation round:  25%|███████████████████▌                                                          | 4/16 [00:16<00:27,  2.28s/batch]
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+
+Validation round: 100%|█████████████████████████████████████████████████████████████████████████████| 16/16 [00:17<00:00,  6.53batch/s]
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch 5/5:  67%|██████████████████████████████████████████▎                    | 100/149 [02:45<00:41,  1.19img/s, loss (batch)=0.0216]
+Validation round:   0%|                                                                                      | 0/16 [00:00<?, ?batch/s]
+torch.Size([1, 3, 512, 781])
+
+Validation round:  44%|██████████████████████████████████▏                                           | 7/16 [00:16<00:06,  1.35batch/s]
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch 5/5:  87%|█████████████████████████████████████████████████████▋        | 129/149 [03:30<00:16,  1.19img/s, loss (batch)=0.00827]
+
+Validation round:  12%|█████████▊                                                                    | 2/16 [00:15<01:31,  6.51s/batch]
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+
+Validation round:  75%|█████████████████████████████████████████████████████████▊                   | 12/16 [00:17<00:00,  4.45batch/s]
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+torch.Size([1, 512, 781])
+torch.Size([1, 3, 512, 781])
+
+
+
+
+
+
+
+
+
+
+Epoch 5/5: 100%|████████████████████████████████████████████████████████████████| 149/149 [04:09<00:00,  1.67s/img, loss (batch)=0.114]
+INFO: Checkpoint 5 saved!

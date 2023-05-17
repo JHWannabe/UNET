@@ -1,0 +1,1199 @@
+INFO: Starting training:
+        Epochs:          5
+        Batch size:      1
+        Learning rate:   1e-05
+        Training size:   4580
+        Validation size: 508
+        Checkpoints:     True
+        Device:          cuda
+        Images scaling:  0.5
+        Mixed Precision: False
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Epoch 1/5:  20%|█████████                                    | 916/4580 [24:00<1:31:39,  1.50s/img, loss (batch)=0.122]
+
+Validation round:   1%|▎                                                          | 3/508 [01:12<2:17:04, 16.29s/batch]
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+
+Validation round:   3%|█▌                                                          | 13/508 [01:14<04:10,  1.98batch/s]
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+
+Validation round:   5%|██▋                                                         | 23/508 [01:16<01:43,  4.70batch/s]
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+
+Validation round:   6%|███▉                                                        | 33/508 [01:18<01:37,  4.88batch/s]
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+
+Validation round:   8%|████▉                                                       | 42/508 [01:20<01:44,  4.45batch/s]
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+
+Validation round:  10%|██████▏                                                     | 52/508 [01:22<01:35,  4.77batch/s]
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+
+Validation round:  12%|███████▏                                                    | 61/508 [01:24<01:32,  4.83batch/s]
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+
+Validation round:  14%|████████▍                                                   | 71/508 [01:26<01:30,  4.85batch/s]
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+
+Validation round:  16%|█████████▌                                                  | 81/508 [01:28<01:27,  4.86batch/s]
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+
+Validation round:  18%|██████████▋                                                 | 91/508 [01:30<01:26,  4.84batch/s]
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+
+Validation round:  20%|███████████▋                                               | 101/508 [01:32<01:23,  4.87batch/s]
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+
+Validation round:  22%|████████████▊                                              | 110/508 [01:34<01:23,  4.79batch/s]
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+
+Validation round:  24%|█████████████▉                                             | 120/508 [01:36<01:19,  4.89batch/s]
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+
+Validation round:  26%|███████████████                                            | 130/508 [01:38<01:18,  4.84batch/s]
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+
+Validation round:  28%|████████████████▎                                          | 140/508 [01:40<01:15,  4.86batch/s]
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+
+Validation round:  29%|█████████████████▎                                         | 149/508 [01:42<01:13,  4.85batch/s]
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+
+Validation round:  31%|██████████████████▍                                        | 159/508 [01:44<01:14,  4.68batch/s]
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+
+Validation round:  33%|███████████████████▋                                       | 169/508 [01:46<01:09,  4.87batch/s]
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+
+Validation round:  35%|████████████████████▊                                      | 179/508 [01:48<01:07,  4.86batch/s]
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+
+Validation round:  37%|█████████████████████▉                                     | 189/508 [01:50<01:05,  4.90batch/s]
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+
+Validation round:  39%|██████████████████████▉                                    | 198/508 [01:52<01:03,  4.89batch/s]
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+
+Validation round:  41%|████████████████████████▏                                  | 208/508 [01:54<01:01,  4.86batch/s]
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+
+Validation round:  43%|█████████████████████████▎                                 | 218/508 [01:56<00:59,  4.85batch/s]
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+
+Validation round:  45%|██████████████████████████▎                                | 227/508 [01:58<00:58,  4.82batch/s]
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+
+Validation round:  47%|███████████████████████████▌                               | 237/508 [02:00<00:55,  4.91batch/s]
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
+torch.Size([1, 640, 959])
+torch.Size([1, 3, 640, 959])
